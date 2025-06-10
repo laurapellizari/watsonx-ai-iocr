@@ -20,8 +20,7 @@ O uso de uma solução de OCR é indicado sempre que for necessário extrair tex
 - Automação de respostas a partir de imagens, integrando OCR com modelos generativos;
 - Otimização de processos operacionais, como triagem de documentos e preenchimento automático de sistemas.
 
-Um ponto importante a ser destacado é que o OCR da IBM se sobressai quando lidamos com dados empresariais e informações sensíveis. Isso se deve ao fato de que, para utilizar a solução, os dados precisam estar armazenados no IBM Cloud Object Storage (COS), e só podem ser acessados mediante credenciais - o que garante maior segurança e controle de acesso.
-Da mesma forma, os resultados extraídos pelo OCR também são armazenados no próprio COS, mantendo todo o fluxo de dados centralizado e protegido.
+Um ponto importante a ser destacado é que os dados precisam estar armazenados no IBM Cloud Object Storage (COS) e , para utilizar a solução, só podem ser acessados mediante credenciais - o que garante maior segurança e controle de acesso. Cenário ideal quando lidamos com dados empresariais e informações sensíveis. Da mesma forma, os resultados extraídos pelo OCR também são armazenados no próprio COS, mantendo todo o fluxo de dados centralizado e protegido.
 
 ## O que existe nesse repositório:
 

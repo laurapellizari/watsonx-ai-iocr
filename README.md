@@ -1,4 +1,4 @@
-# Building Blocks: Aplicando IBM IOCR em Arquiteturas RAG
+# Building Blocks: Aplicando IBM OCR em Arquiteturas RAG
 
 ## Objetivo
 
@@ -24,7 +24,7 @@ Um ponto importante a ser destacado é que os dados precisam estar armazenados n
 
 ## O que existe nesse repositório:
 
-Este repositório contém o notebook [Aplicando IBM IOCR em Arquiteturas RAG: Como Potencializar a Extração de Texto](https://github.com/laurapellizari/watsonx-ai-iocr/blob/main/Aplicando%20IBM%20IOCR%20em%20Arquiteturas%20RAG%3A%20Como%20Potencializar%20a%20Extra%C3%A7%C3%A3o%20de%20Textos.ipynb) que demonstra como utilizar a API do IBM IOCR para extrair texto de imagens, com integração a um storage externo (Cloud Object Storage). O texto extraído é então usado como contexto para um modelo generativo responder perguntas específicas sobre o conteúdo da imagem.
+Este repositório contém o notebook [Aplicando IBM OCR em Arquiteturas RAG: Como Potencializar a Extração de Texto](https://github.com/laurapellizari/watsonx-ai-iocr/blob/main/Aplicando%20IBM%20OCR%20em%20Arquiteturas%20RAG%3A%20Como%20Potencializar%20a%20Extra%C3%A7%C3%A3o%20de%20Textos.ipynb) que demonstra como utilizar a API do IBM OCR para extrair texto de imagens, com integração a um storage externo (Cloud Object Storage). O texto extraído é então usado como contexto para um modelo generativo responder perguntas específicas sobre o conteúdo da imagem.
 
 ## Requisitos
 
@@ -33,5 +33,5 @@ Para executar os códigos neste repositório, você precisará:
 - Ter uma conta na IBM Cloud com acesso ao watsonx.ai (plano a partir do Essentials).
 - Ter credenciais válidas do IBM Cloud Object Storage.
 - Obter uma API Key da IBM Cloud para autenticação.
-- Rodar o notebook: [Aplicando IBM IOCR em Arquiteturas RAG: Como Potencializar a Extração de Texto](https://github.com/laurapellizari/watsonx-ai-iocr/blob/main/Aplicando%20IBM%20IOCR%20em%20Arquiteturas%20RAG%3A%20Como%20Potencializar%20a%20Extra%C3%A7%C3%A3o%20de%20Textos.ipynb)
+- Rodar o notebook: [Aplicando IBM OCR em Arquiteturas RAG: Como Potencializar a Extração de Texto](https://github.com/laurapellizari/watsonx-ai-iocr/blob/main/Aplicando%20IBM%20OCR%20em%20Arquiteturas%20RAG%3A%20Como%20Potencializar%20a%20Extra%C3%A7%C3%A3o%20de%20Textos.ipynb)
 

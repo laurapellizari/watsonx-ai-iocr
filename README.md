@@ -2,7 +2,7 @@
 
 ## Objetivo
 
-Este artigo tem como objetivo apresentar uma visão prática e estratégica da tecnologia OCR, demonstrando como utilizar o IBM IOCR para extrair textos de imagens e documentos e integrá-los com modelos de IA generativa em pipelines RAG.
+Este artigo tem como objetivo apresentar uma visão prática e estratégica da tecnologia OCR, demonstrando como utilizar o IBM OCR para extrair textos de imagens e documentos e integrá-los com modelos de IA generativa em pipelines RAG.
 
 ## O que é OCR?
 
